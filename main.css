@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+}
+
+section {
+    text-align:end;
+    margin-bottom:11rem;
+}
+.logo {
+    text-align:center;
+    margin-bottom:2rem;
+}
+.searchbarContainer{
+    text-align:center;
+    margin:auto;
+}
+.searchbar{
+    width:30rem;
+    margin-bottom:2rem;
+}
+p{
+    font-size:0.7rem;
+}
+button{
+    background-color:#f8f9fa;
+}
